@@ -1,0 +1,16 @@
+{
+  "name": "pharmadossier-marketplace",
+  "version": "1.0.0",
+  "description": "PharmaDossier skill plugins for pharma formulation tech-transfer sales. Helps close dossier licensing deals faster — from prospect identification to NDA execution.",
+  "author": {
+    "name": "PharmaDossier",
+    "url": "https://pharmadossier.com"
+  },
+  "plugins": [
+    {
+      "name": "pharma-dossier-skills",
+      "path": "./pharma-dossier-skills",
+      "description": "5 specialized skills for pharma B2B dossier sales: prospect research, deal qualification, NDA outreach, follow-up, and orchestration."
+    }
+  ]
+}

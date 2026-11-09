@@ -1,0 +1,24 @@
+{
+  "name": "pharma-dossier-skills",
+  "version": "1.0.0",
+  "description": "5 specialized pharma B2B skills: dossier prospect research, deal qualification, NDA outreach scripts, follow-up sequences, and sales orchestration.",
+  "author": {
+    "name": "PharmaDossier",
+    "url": "https://pharmadossier.com"
+  },
+  "homepage": "https://pharmadossier.com",
+  "license": "MIT",
+  "keywords": [
+    "pharma",
+    "formulation",
+    "dossier",
+    "tech-transfer",
+    "WHO-GMP",
+    "CDSCO",
+    "MFR",
+    "pharma-sales",
+    "regulatory",
+    "B2B-pharma"
+  ],
+  "skills": "./skills"
+}
